@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+ul a{
+    text-decoration: none;
+    color: white;
+    margin:10px;
+    font-family: Roboto;
+}
+
+header{
+    background-color: rgb(22, 22, 22);
+    color: white;
+}
+
+#section2{
+    font-family: Roboto;
+    text-align: center; 
+}
+
+.here{
+    background-color: brown;
+}
+
+.men{
+    background-image: url(./68cdaa6ad8e143742401113c9189d736.png);
+}
+
+.about{
+    color: white;
+}
+
+.work{
+    background-color: black;
+}
+
+.resume{
+    background-image: url(https://imageio.forbes.com/specials-images/imageserve/6554be696c4245e50902676e/Fulham-FC-v-Manchester-United---Premier-League/960x0.jpg?format=jpg&width=960);
+    color: white;
+}
+
+.contact{
+    background-image: url(https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irZS3OEYpE.Y/v1/-1x-1.jpg);
+    background-size: cover;
+}
+
